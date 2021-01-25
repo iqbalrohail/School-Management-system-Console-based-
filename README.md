@@ -1,12 +1,16 @@
 # School-Management-system-Console-based-
 
+#Access Path:
 
+School-Management-system-Console-based-/School Management System/src/com/schoolManagementByRohail
 
 
 
 
  #School Management System Short Discription:
-Java Project Idea: School management system is another beginner level project idea that will help you implement your
+ 
+Java Project Idea:
+School management system is another beginner level project idea that will help you implement your
 skills in Java. This project is developed for schools to store and manage all data and records related to school.
  All information related to students, teachers, and staff of the school is stored in the database. System also provides
  the facility to calculate and manage attendance of students.
