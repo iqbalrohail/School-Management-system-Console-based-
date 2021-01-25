@@ -4,7 +4,7 @@
 
 School-Management-system-Console-based-/School Management System/src/com/schoolManagementByRohail
 
-The code can be run by main Method in package com.schoolManagementByRohail
+The code can be run by #Main Class  in package com.schoolManagementByRohail
 
 
 
